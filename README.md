@@ -2,7 +2,7 @@ Stephanie Le Grange
 Mercyhurst University Grad Student
 DATA 550 Data Visualization
 
-## This repository conatis the following:
+## This repository contains the following:
 1. This readme
 2. Animals in Shelters from Kaggle: Shelter animal outcomes.
 3. My project from my Jupyter notebook
