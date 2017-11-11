@@ -2,12 +2,12 @@ Stephanie Le Grange
 Mercyhurst University Grad Student
 DATA 550 Data Visualization
 
-##This repository conatis the following:
+## This repository conatis the following:
 1. This readme
 2. Animals in Shelters from Kaggle: Shelter animal outcomes.
 3. My project from my Jupyter notebook
 
-##Table of Contents
+## Table of Contents
 
 - [Background] (#background)
 - [Programs Used] (#programs used)
@@ -15,7 +15,7 @@ DATA 550 Data Visualization
 - [Project Explaination] (#project explaination)
 - [Acknowledgements] (#acknowledgements)
 
-###Background
+### Background
 
 The data that was used inthis project is from data that was collected from October 2013 to March 2016 by Austin Animal Center. 
 The data show the outcomes of animals that are in shelters, all the animals were given an ID during the intake.
@@ -30,7 +30,7 @@ This data was evaluated usint the multi-class logarithmic loss, a set of probabi
 
 logloss=−1N∑i=1N∑j=1Myijlog(pij).
 
-###Programs Used
+### Programs Used
 
 Python along with the following packages 
 pandas
@@ -42,12 +42,12 @@ train.csv - Training set
 test.csv - Test set
 sample_submission.csv - Sample submission file 
 
-###Reason for Data Set
+### Reason for Data Set
 
 This is a class project that is similar to projects being doen by other students in the class. 
 
-###Project Explaination
+### Project Explaination
 
-###Acknowledgements
+### Acknowledgements
 
 The dataset is brought to us by Austin Animal Center and the shelter animal statistics were taken from the ASPCA
