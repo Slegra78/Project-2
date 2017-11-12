@@ -48,8 +48,24 @@ This is a class project that is similar to projects being doen by other students
 
 ### Project Explaination
 
-from IPython.core,display import Image
-Image('age.png')
+In this data we are going to take a look at the outcome of animals in shelters based on their age, gender, neutered/spayed, and species.
+First we will look at the date in both the train and test files, I pulled the first ten sets of data from each file.
+
+![alt text](https://github.com/Slegra78/project-2/blob/master/.png)
+
+We then take a look at how many dogs and cats are in our data and that were evaluated for this data.
+Second we look at the outcome for all the cats and dogs that were used for this data. We can see that majority of the animals are either adopted or transfered to other shelters.
+
+Now that we know the outcome fro majority of the animals in shelters is either adoption, transfer or returned back to tthei owners we want to look into the sex of the animals and how that effects the outcome.
+Using sex we see that males and females are pretty close in comparrison which does not help us much, so we add in wether the animals are neutered or intact. this shows us that neutered animals are favored. 
+For fun we can even add wether animals that are mixed breeds are favored or pure bred animals. From the data we see that mix breeds are faovred, but we cannot rely on this as most animals in shelters are either mix breeds or unknown.
+Finally, we add the information together to narrow dow the outcome of the animals. The next few graphs will look at the outcome bewteen both cats and dogs.
+We see that both cats and dogs have a high probability of beign adopted and transfered, but dogs have a higher rate of being returned back to their owners. 
+
+Lastly we look at age of the animals in shelters and the outcome. Most animals in shelters are between age 1 and 2 as shown from the below graph and younger animals are favored over older animals. we can also see that older animals have a higher chance of being returned back to their owners. 
+
+
+
 
 ### Acknowledgements
 
