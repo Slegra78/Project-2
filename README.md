@@ -51,7 +51,7 @@ This is a class project that is similar to projects being doen by other students
 In this data we are going to take a look at the outcome of animals in shelters based on their age, gender, neutered/spayed, and species.
 First we will look at the date in both the train and test files, I pulled the first ten sets of data from each file.
 
-
+![alt text](https://github.com/slegra78/project2_HRData/blob/master/pie.png)
 
 We then take a look at how many dogs and cats are in our data and that were evaluated for this data.
 Second we look at the outcome for all the cats and dogs that were used for this data. We can see that majority of the animals are either adopted or transfered to other shelters.
