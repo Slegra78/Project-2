@@ -51,19 +51,19 @@ This is a class project that is similar to projects being doen by other students
 In this data we are going to take a look at the outcome of animals in shelters based on their age, gender, neutered/spayed, and species.
 First we will look at the date in both the train and test files, I pulled the first ten sets of data from each file.
 
-	ID	Name	DateTime	AnimalType	SexuponOutcome	AgeuponOutcome	Breed	Color
-0	1	Summer	2015-10-12 12:15:00	Dog	Intact Female	10 months	Labrador Retriever Mix	Red/White
-1	2	Cheyenne	2014-07-26 17:59:00	Dog	Spayed Female	2 years	German Shepherd/Siberian Husky	Black/Tan
-2	3	Gus	2016-01-13 12:20:00	Cat	Neutered Male	1 year	Domestic Shorthair Mix	Brown Tabby
-3	4	Pongo	2013-12-28 18:12:00	Dog	Intact Male	4 months	Collie Smooth Mix	Tricolor
-4	5	Skooter	2015-09-24 17:59:00	Dog	Neutered Male	2 years	Miniature Poodle Mix	White
-5	6	Beau	2015-06-23 11:17:00	Dog	Neutered Male	3 years	Beagle Mix	Brown/White
-6	7	Bobo	2014-03-12 09:45:00	Cat	Neutered Male	13 years	Domestic Medium Hair Mix	Brown Tabby/White
-7	8	Abby	2014-06-25 08:27:00	Cat	Spayed Female	6 months	Domestic Shorthair Mix	Brown Tabby
-8	9	Ruby Grace	2014-11-12 18:05:00	Dog	Spayed Female	3 months	Cairn Terrier	Black/Cream
-9	10	Ruby	2014-04-07 17:41:00	Dog	Spayed Female	1 year	Pit Bull Mix	Brown/White
+|ID |Name |DateTime |AnimalType |SexuponOutcome |AgeuponOutcome |Breed |Color |
+|---|-----|---------|-----------|---------------|---------------|------|------|
+|0 |1 |Summer |2015-10-12 12:15:00 |Dog |Intact Female |10 months |Labrador Retriever Mix |Red/White |
+|1 |2 |Cheyenne |2014-07-26 17:59:00 |Dog |Spayed Female |2 year |German Shepherd/Siberian Husky |Black/Tan |
+|2 |3 |Gus |2016-01-13 12:20:00 |Cat |Neutered Male |1 year |Domestic Shorthair Mix |Brown Tabby |
+|3 |4 |Pongo |2013-12-28 18:12:00 |Dog |Intact Male |4 months |Collie Smooth Mix |Tricolor |
+|4 |5 |Skooter |2015-09-24 17:59:00 |Dog |Neutered Male |2 years |Miniature Poodle Mix |White |
+|5 |6 |Beau |2015-06-23 11:17:00 |Dog |Neutered Male |3 years |Beagle Mix |Brown/White |
+|6 |7 |Bobo |2014-03-12 09:45:00 |Cat |Neutered Male |13 years |Domestic Medium Hair Mix |Brown Tabby/White |
+|7 |8 |Abby |2014-06-25 08:27:00 |Cat |Spayed Female |6 months |Domestic Shorthair Mix |Brown Tabby |
+|8 |9 |Ruby Grace |2014-11-12 18:05:00 |Dog |Spayed Female |3 months |Cairn Terrier |Black/Cream |
+|9 |10 |Ruby |2014-04-07 17:41:00 |Dog |Spayed Female |1 year |Pit Bull Mix |Brown/White |
 
-![alt text](https://github.com/slegra78/project2_HRData/blob/master/pie.png)
 
 We then take a look at how many dogs and cats are in our data and that were evaluated for this data.
 Second we look at the outcome for all the cats and dogs that were used for this data. We can see that majority of the animals are either adopted or transfered to other shelters.
