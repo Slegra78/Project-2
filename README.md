@@ -11,7 +11,7 @@ DATA 550 Data Visualization
 
 - [Background](#background)
 
-- [Programs](#programs used)
+- [Programs](#programsused)
 - [Reason for Data Set](#reason for data set)
 - [Project Explaination](#project explaination)
 - [Acknowledgements](#acknowledgements)
