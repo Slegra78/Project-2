@@ -74,7 +74,7 @@ We see that both cats and dogs have a high probability of beign adopted and tran
 
 Lastly we look at age of the animals in shelters and the outcome. Most animals in shelters are between age 1 and 2 as shown from the below graph and younger animals are favored over older animals. we can also see that older animals have a higher chance of being returned back to their owners. 
 
-![alt text](https://github.com/slegra78/project-2/blob/master/age.png)
+![alt text](https://github.com/slegra78/project-2/age.png)
 
 
 ### Acknowledgements
