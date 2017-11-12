@@ -10,6 +10,7 @@ DATA 550 Data Visualization
 ## Table of Contents
 
 - [Background](#background)
+
 - [Programs Used](#programs used)
 - [Reason for Data Set](#reason for data set)
 - [Project Explaination](#project explaination)
