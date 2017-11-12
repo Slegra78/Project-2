@@ -48,6 +48,9 @@ This is a class project that is similar to projects being doen by other students
 
 ### Project Explaination
 
+from IPython.core,display import Image
+Image('age.png')
+
 ### Acknowledgements
 
 The dataset is brought to us by Austin Animal Center and the shelter animal statistics were taken from the ASPCA
